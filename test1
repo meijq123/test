@@ -4,6 +4,7 @@ ihello world
 
 4 modify
 
-dev modify2
+dev modify
 
-moster modify
+dev modify2
+>>>>>>> dev
